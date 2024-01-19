@@ -1,0 +1,10 @@
+obj/
+build/
+limine/
+*.o
+*.d
+*.elf
+*.efi
+run
+*.iso
+*.img
