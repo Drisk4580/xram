@@ -10,8 +10,8 @@ toolchains on Linux, Free- and OpenBSD work; The kernel is mainly developed on
 OpenBSD. 
 
 
-To build the kernel, you'll need to first download limine as that is what xarm 
-uses by default. The `deps.sh` script clones the limine bootloader into `limine`
+To build the kernel, you'll need to first download limine, which you can obtain 
+by running `deps.sh`
 . Now run `gmake` to build the kernel.
 
 
